@@ -1,7 +1,7 @@
 # 04-html_git
-Class Activity HTML Git
+**Class Activity HTML/Git**
 
-**In this class activity I worked on the following items.** 
+## In this class activity I worked on the following items
 
 1. Creating a GitHub repository via the SSH connection method. 
 
@@ -12,8 +12,9 @@ Class Activity HTML Git
     - `<img>`
     - `<ul>`
     -  `<a>`
-    I also played with the `mailto:` value in the `href=""` attribute, so that the email would open up in an email client.  
 
-3. Once the html file was created, the new file was then tracked via `git add .` then staged via `git commit -m "Message"` and published to `git push`.
+3. I also played with the `mailto:` value in the `href=""` attribute, so that the email would open up in an email client.  
 
-4. As corrections were identified or features added, several more commits were made to the file. 
+4. Once the html file was created, the new file was then tracked via `git add .` then staged via `git commit -m "Message"` and published to `git push`.
+
+5. As corrections were identified or features added, several more commits were made to the file. 
