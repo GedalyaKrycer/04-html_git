@@ -1,7 +1,7 @@
 # 04-html_git
 **Class Activity HTML/Git**
 
-## In this class activity I worked on the following items
+#### In this class activity I worked on the following items
 
 1. Creating a GitHub repository via the SSH connection method. 
 
